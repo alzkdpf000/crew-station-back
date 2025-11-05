@@ -172,9 +172,8 @@
 
 ## 📊 QA 테스트
 
-<img width="922" height="577" alt="Image" src="https://github.com/user-attachments/assets/9bda25db-1a46-439f-8abe-aa35500f5c95" />
+<img width="736" height="710" alt="image" src="https://github.com/user-attachments/assets/1237d6c2-7dc8-4c1a-9062-07c0c2df091e" />
 
-<img width="658" height="212" alt="스크린샷 2025-10-29 오후 2 35 56" src="https://github.com/user-attachments/assets/ad77d8bc-0a57-4fb3-99e3-14af9abaa804" />
 
 ---
 
